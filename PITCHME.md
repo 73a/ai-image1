@@ -42,6 +42,8 @@
     1. 学習プログラム実装
     1. SAKURAの環境で学習を開始
     1. 学習状況を確認（要Port9000開放）
+---?code=src/ImageClassificationLearning2.java
+hoge
 ---
 ### 画像認識（識別プログラム）
 1. 振り返り [10分]
