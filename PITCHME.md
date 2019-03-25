@@ -5,10 +5,10 @@ Deep Learning for Java
 https://deeplearning4j.org/
 
 ### セットアップ
-<div style="text-align: left;">
 Java SE 8
+    
 https://www.oracle.com/technetwork/java/javase/downloads/index.html
-</div>
+
 
 Eclipse
 https://www.eclipse.org/
