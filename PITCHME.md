@@ -28,9 +28,8 @@
 |Group Id|<ドメイン名（逆順）>|jp.jpdirect|
 |Artifact Id|<プロジェクト名>|tus-image-learning|
 |Name|<プロジェクト名>|tus-image-learning|
----
-### pom.xml
----?code=ImageClassificationLearning2.java
+
+---?code=pom.xml
 ---
 ### Java [50分]
     1. package
