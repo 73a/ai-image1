@@ -34,12 +34,12 @@
 ---
 ### pom.xml
 
----?code=pom.xml
+---?code=pom.xml&lang=java
 @[4-8](プロジェクト作成時に入力した値)
 @[12-13](GPU非搭載)
 @[18-23](バージョン指定)
 
----?code=pom-g.xml
+---?code=pom-g.xml&lang=java
 @[12-13](GPU搭載)
 
 ---
