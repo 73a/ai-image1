@@ -23,13 +23,15 @@
 1. [Next]
 1. New Maven project
 
+(次ページ)
+
+1. [Finish]
+---
 |項目|値|例|
 |:--|:--|:--|
 |Group Id|<ドメイン名（逆順）>|jp.jpdirect|
 |Artifact Id|<プロジェクト名>|tus-image-learning|
 |Name|<プロジェクト名>|tus-image-learning|
-
-1. [Finish]
 ---
 ### Java [50分]
     1. package
