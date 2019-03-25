@@ -32,14 +32,8 @@
 ---
 ### pom.xml
 ---?code=pom.xml
-pom.xml
----
 @[12](GPU非搭載)
----
-```
-		<!--<nd4j.backend>nd4j-native-platform</nd4j.backend> -->
-		<nd4j.backend>nd4j-cuda-9.0-platform</nd4j.backend>
-```
+---?code=pom-g.xml
 @[2](GPU搭載)
 ---
 ### Java [50分]
