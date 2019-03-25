@@ -1,17 +1,15 @@
 # 事前準備
 ---
 ### deeplearning4j [10分]
-Deep Learning for Java
-https://deeplearning4j.org/
+- Deep Learning for Java
+  https://deeplearning4j.org/
 
 ### セットアップ
-Java SE 8
-    
-https://www.oracle.com/technetwork/java/javase/downloads/index.html
+- Java SE 8
+  https://www.oracle.com/technetwork/java/javase/downloads/index.html
 
-
-Eclipse
-https://www.eclipse.org/
+- Eclipse
+  https://www.eclipse.org/
 
 
 ### eclipse [30分]
