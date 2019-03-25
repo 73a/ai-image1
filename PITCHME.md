@@ -14,15 +14,21 @@
 
   https://www.eclipse.org/
 
-|項目|値|
-|:--|:--|
-|hoge|moge|
-
 ### eclipse [30分]
+---
 #### プロジェクト作成
-- [File]-->[new]-->[Project]
-
-
+1. [File]-->[new]-->[Project]-->[Maven]-->[Maven Project]
+1. [Next]
+1. Check "Create simple project (skip archetype selection)"
+1. [Next]
+1. New Maven project
+|項目|値|例|
+|:--|:--|:--|
+|Group Id|<ドメイン名（逆順）>|jp.jpdirect|
+|Artifact Id|<プロジェクト名>|tus-image-learning|
+|Name|<プロジェクト名>|tus-image-learning|
+1. [Next]
+---
 ### Java [50分]
     1. package
     1. コード編集
