@@ -1,2 +1,8 @@
+#コードのシンタックスハイライトの設定
+highlight : monokai
+
 # 行番号
 code-line-numbers : true
+
+#チャート / グラフ機能の設定
+charts : true
