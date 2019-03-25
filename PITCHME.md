@@ -32,9 +32,9 @@
 ---
 ### pom.xml
 ---?code=pom.xml
-@[12](GPU非搭載)
+@[12-13](GPU非搭載)
 ---?code=pom-g.xml
-@[2](GPU搭載)
+@[12-13](GPU搭載)
 ---
 ### Java [50分]
     1. package
