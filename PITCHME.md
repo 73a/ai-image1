@@ -30,6 +30,7 @@
 |Name|<プロジェクト名>|tus-image-learning|
 ---
 ### pom.xml
+---?code=ImageClassificationLearning2.java
 ---
 ### Java [50分]
     1. package
