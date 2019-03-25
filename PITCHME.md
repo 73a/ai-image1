@@ -2,8 +2,9 @@
 ---
 ### deeplearning4j [10分]
 - Deep Learning for Java
-  https://deeplearning4j.org/
 
+  https://deeplearning4j.org/
+---
 ### セットアップ
 - Java SE 8
 
@@ -13,9 +14,15 @@
 
   https://www.eclipse.org/
 
+|項目|値|
+|:--|:--|
+|hoge|moge|
 
 ### eclipse [30分]
-    1. プロジェクト作成
+#### プロジェクト作成
+- [File]-->[new]-->[Project]
+
+
 ### Java [50分]
     1. package
     1. コード編集
