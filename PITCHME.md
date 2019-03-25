@@ -17,12 +17,13 @@
 ### eclipse
 ---
 #### プロジェクト作成
-1. [File]-->[new]-->[Project]-->[Maven]-->[Maven Project]
-1. [Next]
+1. File → new → Project → Maven → Maven Project
+1. Next
 1. Check "Create simple project (skip archetype selection)"
-1. [Next]
+1. Next
 1. New Maven project
 ---
+
 |項目|値|例|
 |:--|:--|:--|
 |Group Id|ドメイン名（逆順）|jp.jpdirect|
@@ -36,7 +37,7 @@
 @[4-8](プロジェクト作成時に入力した値)
 @[12-13](GPU非搭載)
 @[18-23](バージョン指定)
----
+
 ---?code=pom-g.xml
 @[12-13](GPU搭載)
 
