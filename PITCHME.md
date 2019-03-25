@@ -22,16 +22,14 @@
 1. Check "Create simple project (skip archetype selection)"
 1. [Next]
 1. New Maven project
-
-(次ページ)
-
-1. [Finish]
 ---
 |項目|値|例|
 |:--|:--|:--|
 |Group Id|<ドメイン名（逆順）>|jp.jpdirect|
 |Artifact Id|<プロジェクト名>|tus-image-learning|
 |Name|<プロジェクト名>|tus-image-learning|
+---
+### pom.xml
 ---
 ### Java [50分]
     1. package
